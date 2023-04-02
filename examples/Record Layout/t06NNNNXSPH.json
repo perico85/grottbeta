@@ -58,7 +58,7 @@
             "pdischarge1"        : {"value" :702, "length" : 4, "type" : "num", "divide" : 10}, 
             "p1charge1"          : {"value" :710, "length" : 4, "type" : "num", "divide" : 10}, 
             "vbat"               : {"value" :718, "length" : 2, "type" : "num", "divide" : 10}, 
-            "SOC"                : {"value" :722, "length" : 2, "type" : "num", "divide" : 100}, 
+            "bdc1_soc"          : {"value" : 850,"length" : 2,"type" : "num","divide" : 1}, 
             "pactouserr"         : {"value" :726, "length" : 4, "type" : "num", "divide" : 10}, 
             "#pactousers"        : {"value" :734, "length" : 4, "type" : "num", "divide" : 10,"incl" : "no"}, 
             "#pactousert"        : {"value" :742, "length" : 4, "type" : "num", "divide" : 10,"incl" : "no"}, 
